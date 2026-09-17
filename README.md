@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
