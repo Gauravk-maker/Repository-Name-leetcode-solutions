@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
