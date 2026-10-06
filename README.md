@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
