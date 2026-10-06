@@ -79,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0231-power-of-two) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
