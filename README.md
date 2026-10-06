@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
