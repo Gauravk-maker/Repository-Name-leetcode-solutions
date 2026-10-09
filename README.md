@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0231-power-of-two) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
