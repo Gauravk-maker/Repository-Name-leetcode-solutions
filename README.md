@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Backtracking
