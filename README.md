@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0198-house-robber) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
