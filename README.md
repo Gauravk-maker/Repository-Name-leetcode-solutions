@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Gauravk-maker/Repository-Name-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
